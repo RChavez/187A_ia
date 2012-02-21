@@ -1,0 +1,29 @@
+body {
+    font-family: Georgia, sans-serif
+}
+
+.header_margin {
+    margin-top: 20px
+}
+.heading {
+    text-align: left;
+    background-color: silver;
+}
+.center {
+    text-align: center
+}
+.divider {
+    margin-top: 15px;
+    border-bottom: 2px solid silver;
+}
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+    padding-top: 5px;
+}
+li {
+    padding-left: 20px;
+}
+td {
+    width: 20%
+}
