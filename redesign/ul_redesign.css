@@ -43,7 +43,7 @@ form {
     background-color: whtie;
 }
 .main_nav_span {
-    width: 112px;
+    width: 106px;
     margin-top: 50px;
     font-style: italic;
 }
@@ -52,9 +52,6 @@ form {
 }
 .bg_color {
     color: #bb0000
-}
-.navbar_background {
-    background-image: 
 }
 .dropdown-menu {
     min-width: inherit;
@@ -66,6 +63,10 @@ form {
 }
 .well1  {
     height: 276px;
+}
+.well2 {
+    height: 600px;
+    width: 260px;
 }
 .span_inherit {
     width: 280px;
@@ -79,5 +80,22 @@ form {
     font-size: 14pt;
 }
 h6 {
-    font-size: 14pt;
+    font-size: 12pt;
+}
+.footer {
+    background-color: silver;
+}
+#footer_title {
+    font: bold, 10pt; 
+    text-align: left;
+}
+.active_page {
+    color: blue;
+    font-style: italic;
+}
+.table_width {
+    width: 580px;
+}
+tr {
+    height: 100px;
 }

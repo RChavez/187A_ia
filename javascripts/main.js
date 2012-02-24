@@ -3,9 +3,7 @@ $(document).ready(function() {
 
   $('.fancybox').fancybox();
   $('.dropdown-toggle').dropdown()
-  $('.carousel').carousel() {
-  interval: 2000
-  }
+  $('.carousel').carousel() 
   $('#example').tooltip(options)
   
 
